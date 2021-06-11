@@ -1,4 +1,4 @@
-# Exercise Details
+# Project Details
 
 **Author:** _Keith Nicole M. Arches_
 
